@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f0081b-9bcd-401d-b2b2-d0b1d2c47a58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/ArbitrageDetection/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/ArbitrageDetection/BellmanFord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/ArbitrageDetection/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/ArbitrageDetection/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BellmanFordAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BellmanFordAlgorithm/BellmanFord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BellmanFordAlgorithm/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BellmanFordAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BipartiteMatching/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BipartiteMatching/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BipartiteMatching/EdmondsKarpAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BipartiteMatching/FlowNetwork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BipartiteMatching/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BreadthFirstSearch/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BreadthFirstSearch/BreadthFirstSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/BreadthFirstSearch/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/CycleDetection/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/CycleDetection/CycleDetection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/CycleDetection/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DAGShortestPath/AcyclicShortestPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DAGShortestPath/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DAGShortestPath/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DAGShortestPath/TopologicalSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DAGShortestPath/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DepthFirstSearch/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DepthFirstSearch/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DijkstraAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DijkstraAlgorithm/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DijkstraAlgorithm/ShortestPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/DijkstraAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/DepthFirstOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/KosarajuAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KosarajuShamirAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/DisjointSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/KruskalAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/KruskalAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/LongestPath/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/LongestPath/BellmanFord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/LongestPath/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/LongestPath/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MaxFlowMinCut/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MaxFlowMinCut/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MaxFlowMinCut/FlowNetwork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MaxFlowMinCut/FordFulkerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MaxFlowMinCut/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MazeSolver/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MazeSolver/FileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/MazeSolver/MazeSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimAlgorithm/Algorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimAlgorithm/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimJarnikGreedy/Algorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimJarnikGreedy/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimJarnikGreedy/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimJarnikGreedy/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/PrimJarnikGreedy/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/SimulatedAnnealing/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/SimulatedAnnealing/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/SimulatedAnnealing/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/SimulatedAnnealing/SimulatedAnnealing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/SimulatedAnnealing/SingleTour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TarjanAlgorithm/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TarjanAlgorithm/TarjanAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TarjanAlgorithm/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TopologicalOrdering/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TopologicalOrdering/TopologicalOrdering.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/TopologicalOrdering/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/WebCrawler/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/WebCrawler/BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Advanced_Algorithms/WebCrawler/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_Recursion/AppRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/A_AppSampleSortJDK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppBubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppCountingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppInsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppMergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppRadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppRadixSortString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/A_SortsAlgorithm/AppSortedSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_IntegerLinkedList/AppLinkedListSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_IntegerLinkedList/IntegerLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_IntegerLinkedList/IntegerNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_LinkedList_JDK/AppLinkedListJDK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_LinkedList_JDK/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListDoubleLinked/AppEmployeeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListDoubleLinked/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListDoubleLinked/EmployeeDoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListDoubleLinked/EmployeeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListSingle/AppEmployeeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListSingle/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListSingle/EmployeeLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_ListSingle/EmployeeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_Lists/AppListEmployeeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_Lists/AppVectorEmployeeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/B_Lists/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack/AppStackSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_Array/AppStackSampleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_Array/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_Array/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_LinkedList/AppStackSampleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_LinkedList/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/C_Stack_LinkedList/LinkedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue_Circular/AppCircularQueueSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue_Circular/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue_Circular/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/D_Queue_Sample/AppPolidromQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable/AppHashtableSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable/SimpleHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_BucketSort/AppBucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_Chained/AppHashtableSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_Chained/ChainedHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_Chained/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_Chained/StoredEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_JDK/AppHashtableSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_JDK/AppHashtableSampleV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_JDK/AppHashtableSampleV3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_JDK/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_LinearProbing/AppHashtableProbingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_LinearProbing/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_LinearProbing/SimpleHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/E_Hashtable_LinearProbing/StoredEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/F_SearchAlgoritms/AppBinarySearchAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/F_SearchAlgoritms/AppLinearSearchAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchDelete/AppTreeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchDelete/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchDelete/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchInsertion/AppTreeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchInsertion/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchInsertion/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchMinMax/AppTreeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchMinMax/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchMinMax/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchTraversal/AppTreeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchTraversal/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/G_Tree_BinarySearchTraversal/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/H_Heap/AppHeapSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/H_Heap/AppHeapSampleV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/H_Heap/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/H_HeapSort/AppHeapSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms/H_HeapSort/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/AVL_Generic/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/AVL_Generic/AvlTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/AVL_Generic/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/AVL_Generic/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/BinarySearchTree/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/BinarySearchTree/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/BinarySearchTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/BinarySearchTree/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/BinarySearchTree/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Collections_Maps/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Collections_PriorityQueue/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Collections_PriorityQueue/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/DijkstraInterpreter/Algorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/DijkstraInterpreter/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/GenericHashMapLinearProbing/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/GenericHashMapLinearProbing/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/GenericHashMapLinearProbing/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapChaining/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapChaining/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapChaining/HashItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapChaining/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapLinearProbing/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapLinearProbing/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapLinearProbing/HashItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/HashMapLinearProbing/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Heap/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Heap/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/LinkList/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/LinkList/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/LinkList/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/LinkList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Queue/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Queue/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/Queue/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/RedBlackTree/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/RedBlackTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/RedBlackTree/NodeColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/RedBlackTree/RedBlackTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/RedBlackTree/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/SplayTree/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/SplayTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/SplayTree/SplayTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/SplayTree/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/StackArray/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/StackArray/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/StackLinkedList/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/StackLinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/StackLinkedList/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/TST/AppSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/TST/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Base_Algorithms_2/TST/TST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/BinarySearch/AppBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/BinarySearch/AppBinarySearchKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/BinarySearch/BinarySearchTestKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/AlgoritmSource.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/TestAlgorithm/Test001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/TestAlgorithm/Test001Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/ArbitrageDetection/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/ArbitrageDetection/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/ArbitrageDetection/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/ArbitrageDetection/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BellmanFordAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BellmanFordAlgorithm/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BellmanFordAlgorithm/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BellmanFordAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BipartiteMatching/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BipartiteMatching/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BipartiteMatching/EdmondsKarpAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BipartiteMatching/FlowNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BipartiteMatching/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BreadthFirstSearch/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BreadthFirstSearch/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/BreadthFirstSearch/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/CycleDetection/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/CycleDetection/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/CycleDetection/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DAGShortestPath/AcyclicShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DAGShortestPath/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DAGShortestPath/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DAGShortestPath/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DAGShortestPath/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DepthFirstSearch/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DepthFirstSearch/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DijkstraAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DijkstraAlgorithm/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DijkstraAlgorithm/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/DijkstraAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/DepthFirstOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/KosarajuAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KosarajuShamirAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/KruskalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/KruskalAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/LongestPath/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/LongestPath/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/LongestPath/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/LongestPath/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MaxFlowMinCut/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MaxFlowMinCut/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MaxFlowMinCut/FlowNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MaxFlowMinCut/FordFulkerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MaxFlowMinCut/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver/MazeSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver/map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimAlgorithm/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimAlgorithm/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimJarnikGreedy/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimJarnikGreedy/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimJarnikGreedy/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimJarnikGreedy/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/PrimJarnikGreedy/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/SimulatedAnnealing/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/SimulatedAnnealing/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/SimulatedAnnealing/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/SimulatedAnnealing/SimulatedAnnealing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/SimulatedAnnealing/SingleTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TarjanAlgorithm/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TarjanAlgorithm/TarjanAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TarjanAlgorithm/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TopologicalOrdering/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TopologicalOrdering/TopologicalOrdering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/TopologicalOrdering/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/WebCrawler/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/WebCrawler/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/WebCrawler/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_Recursion/AppRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/A_AppSampleSortJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppCountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppInsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppRadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppRadixSortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/A_SortsAlgorithm/AppSortedSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_IntegerLinkedList/AppLinkedListSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_IntegerLinkedList/IntegerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_IntegerLinkedList/IntegerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_LinkedList_JDK/AppLinkedListJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_LinkedList_JDK/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListDoubleLinked/AppEmployeeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListDoubleLinked/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListDoubleLinked/EmployeeDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListDoubleLinked/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListSingle/AppEmployeeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListSingle/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListSingle/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_ListSingle/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_Lists/AppListEmployeeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_Lists/AppVectorEmployeeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/B_Lists/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack/AppStackSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_Array/AppStackSampleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_Array/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_Array/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_LinkedList/AppStackSampleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_LinkedList/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/C_Stack_LinkedList/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue_Circular/AppCircularQueueSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue_Circular/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue_Circular/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/D_Queue_Sample/AppPolidromQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable/AppHashtableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable/SimpleHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_BucketSort/AppBucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_Chained/AppHashtableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_Chained/ChainedHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_Chained/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_Chained/StoredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_JDK/AppHashtableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_JDK/AppHashtableSampleV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_JDK/AppHashtableSampleV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_JDK/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_LinearProbing/AppHashtableProbingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_LinearProbing/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_LinearProbing/SimpleHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/E_Hashtable_LinearProbing/StoredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/F_SearchAlgoritms/AppBinarySearchAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/F_SearchAlgoritms/AppLinearSearchAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchDelete/AppTreeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchDelete/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchDelete/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchInsertion/AppTreeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchInsertion/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchInsertion/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchMinMax/AppTreeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchMinMax/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchMinMax/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchTraversal/AppTreeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchTraversal/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/G_Tree_BinarySearchTraversal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/H_Heap/AppHeapSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/H_Heap/AppHeapSampleV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/H_Heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/H_HeapSort/AppHeapSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms/H_HeapSort/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/AVL_Generic/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/AVL_Generic/AvlTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/AVL_Generic/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/AVL_Generic/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/BinarySearchTree/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/BinarySearchTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/BinarySearchTree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/BinarySearchTree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Collections_Maps/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Collections_PriorityQueue/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Collections_PriorityQueue/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/DijkstraInterpreter/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/DijkstraInterpreter/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/GenericHashMapLinearProbing/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/GenericHashMapLinearProbing/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/GenericHashMapLinearProbing/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapChaining/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapChaining/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapChaining/HashItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapChaining/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapLinearProbing/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapLinearProbing/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapLinearProbing/HashItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/HashMapLinearProbing/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Heap/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/LinkList/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/LinkList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/LinkList/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/LinkList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Queue/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/RedBlackTree/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/RedBlackTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/RedBlackTree/NodeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/RedBlackTree/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/RedBlackTree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/SplayTree/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/SplayTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/SplayTree/SplayTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/SplayTree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/StackArray/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/StackArray/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/StackLinkedList/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/StackLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/StackLinkedList/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/TST/AppSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/TST/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base_Algorithms_2/TST/TST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BinarySearch/AppBinarySearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BinarySearch/BinarySearchTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TestAlgorithm/Test001.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iapf3sVfsHLETjslKmfpBH34AE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="E_Hashtable_JDK" />
+      <recent name="C_Stack_LinkedList" />
+      <recent name="A_LinkedList_JDK" />
+      <recent name="A_ListDoubleLinked" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Advanced_Algorithms/MazeSolver" />
+      <recent name="$PROJECT_DIR$/src/main/java/A_ListSingle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppSample (4)">
+    <configuration name="AppSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Base_Algorithms_2.StackArray.AppSample" />
+      <module name="AlgoritmSource.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base_Algorithms_2.StackArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advanced_Algorithms.LongestPath.AppSample" />
+      <module name="AlgoritmSource.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advanced_Algorithms.LongestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advanced_Algorithms.TopologicalOrdering.AppSample" />
+      <module name="AlgoritmSource.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advanced_Algorithms.TopologicalOrdering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSample (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advanced_Algorithms.WebCrawler.AppSample" />
+      <module name="AlgoritmSource.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advanced_Algorithms.WebCrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSample (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Base_Algorithms_2.TST.AppSample" />
+      <module name="AlgoritmSource.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base_Algorithms_2.TST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppSample (4)" />
+        <item itemvalue="Application.AppSample (3)" />
+        <item itemvalue="Application.AppSample (2)" />
+        <item itemvalue="Application.AppSample (5)" />
+        <item itemvalue="Application.AppSample (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f0081b-9bcd-401d-b2b2-d0b1d2c47a58" name="Default Changelist" comment="" />
+      <created>1602155656723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602155656723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="371" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602760710697">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="301" y="371" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.838@0.23.1440.838" timestamp="1602760710697" />
+    <state x="301" y="375" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.847@0.23.1440.847" timestamp="1602671410294" />
+    <state x="486" y="330" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602671411738">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="486" y="330" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.847@0.23.1440.847" timestamp="1602671411738" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1603322942038">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1603322942038" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1602194943020" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1602159141891" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1602722816574" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.847@0.23.1440.847" timestamp="1602694880429" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1602693963202" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1603322942037">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1603322942037" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1602194943018" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1602159141888" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1602722816574" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.847@0.23.1440.847" timestamp="1602694880428" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1602693963201" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1603322942036">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1603322942036" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1602194943018" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1602159141887" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1602722816573" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.847@0.23.1440.847" timestamp="1602694880425" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1602693963197" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1603322942037">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1603322942037" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1602194943020" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1602159141889" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1602722816574" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.847@0.23.1440.847" timestamp="1602694880429" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1602693963202" />
+    <state x="397" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1603139698036">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="397" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.838@0.23.1440.838" timestamp="1603139698036" />
+    <state x="0" y="51" width="837" height="810" key="find.popup" timestamp="1602763950648">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="0" y="51" width="837" height="810" key="find.popup/0.23.1440.838@0.23.1440.838" timestamp="1602763950648" />
+    <state x="409" y="64" key="new project wizard" timestamp="1602760514042">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="409" y="64" key="new project wizard/0.23.1440.838@0.23.1440.838" timestamp="1602760514042" />
+  </component>
+</project>
